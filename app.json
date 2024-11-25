@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "expo-ts-full",
-    "slug": "expo-ts-full",
+    "slug": "projetofern",
     "version": "1.0.0",
     "orientation": "default",
     "icon": "./assets/images/icon.png",
@@ -38,8 +38,9 @@
         "origin": false
       },
       "eas": {
-        "projectId": "4b170c23-0bec-4c07-8ad0-0b16c857c42c"
+        "projectId": "32b82fcf-2683-4ad1-b982-82002b7ea79e"
       }
-    }
+    },
+    "owner": "brodt"
   }
 }
